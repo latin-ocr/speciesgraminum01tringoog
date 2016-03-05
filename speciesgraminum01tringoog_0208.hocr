@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./speciesgraminum01tringoog_0208.png"; bbox 0 0 4205 6537; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1519 6051 2383 6167">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1519 6049 2383 6167">
+     <span class='ocr_line' id='line_1_1' title="bbox 1519 6051 2383 6167; baseline -0.014 -2"><span class='ocrx_word' id='word_1_1' title='bbox 1519 6051 1724 6167; x_wconf 33' lang='lat'><em>&amp;²792</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1738 6072 1921 6161; x_wconf 57' lang='lat' dir='ltr'><em>aka-2</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1974 6059 2350 6158; x_wconf 41' lang='lat' dir='ltr'><em>-nzcascaessk</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 2374 6096 2383 6105; x_wconf 71' lang='lat'><strong><em>‘</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

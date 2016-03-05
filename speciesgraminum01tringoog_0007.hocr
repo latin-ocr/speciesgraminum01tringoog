@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./speciesgraminum01tringoog_0007.png"; bbox 0 0 4205 6537; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 490 220 3992 2676">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 490 220 3992 2676">
+     <span class='ocr_line' id='line_1_1' title="bbox 490 220 3992 2676; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 490 220 3992 2676; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1353 2711 3205 3292">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1353 2711 3205 3292">
+     <span class='ocr_line' id='line_1_2' title="bbox 1381 2711 3205 2941; baseline -0.013 -18"><span class='ocrx_word' id='word_1_2' title='bbox 1381 2773 1769 2922; x_wconf 62' lang='grc' dir='ltr'><strong>αθ.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1812 2711 2718 2941; x_wconf 63' lang='lat' dir='ltr'><strong>77⁴5}ch</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2743 2765 3205 2905; x_wconf 72' lang='lat' dir='ltr'><strong>MD.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1353 3089 3200 3292; baseline -0.009 -65"><span class='ocrx_word' id='word_1_5' title='bbox 1353 3092 1752 3292; x_wconf 55' lang='grc' dir='ltr'><strong>«Αοᾳὸ.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1863 3102 2182 3268; x_wconf 60' lang='grc' dir='ltr'><strong>ὔῐηΡ.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2226 3139 2386 3221; x_wconf 66' lang='lat'><strong>50.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2427 3089 2865 3268; x_wconf 57' lang='lat' dir='ltr'><strong>Seu-op.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2925 3103 3200 3213; x_wconf 60' lang='lat' dir='ltr'><strong>aod.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
